@@ -1,0 +1,15 @@
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\bin\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.exe
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\bin\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.deps.json
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\bin\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.runtimeconfig.json
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\bin\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.dll
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\bin\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.pdb
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.AssemblyInfoInputs.cache
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.AssemblyInfo.cs
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.sourcelink.json
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.dll
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\refint\Ahmad Omar Al Abass-200001037-Assignment-2.dll
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.pdb
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\Ahmad Omar Al Abass-200001037-Assignment-2.genruntimeconfig.cache
+C:\Users\Rock\source\repos\Ahmad Omar Al Abass-200001037-Assignment-2\Ahmad Omar Al Abass-200001037-Assignment-2\obj\Debug\net8.0\ref\Ahmad Omar Al Abass-200001037-Assignment-2.dll

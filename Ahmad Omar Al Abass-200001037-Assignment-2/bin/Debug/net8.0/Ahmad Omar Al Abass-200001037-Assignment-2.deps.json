@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ahmad Omar Al Abass-200001037-Assignment-2/1.0.0": {
+        "runtime": {
+          "Ahmad Omar Al Abass-200001037-Assignment-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ahmad Omar Al Abass-200001037-Assignment-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
